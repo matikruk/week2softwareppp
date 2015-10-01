@@ -1,0 +1,64 @@
+ISD lab sheet week 1- Answer sheet. 
+
+1.	What is a code repository (often also called version control system) used for?
+
+A code repository is a place where user can store all source code for software, related documents, local or online repositories, source code version control etc. either publicly or privately. There are many online code repositories available on the market such as Github, BitBucket, Google code and more. 
+
+2.	Why is it advantageous to use a code repository?
+
+It is very advantageous to use a code repository as they help developers keep patches of codes in an organized form. Most of the code repositories that are available on the market provides different features that supports many a project in many fields. The most popular features are: version control, bug tracking, release management, mailing lists, self-hosting, shell server and more. 
+
+3.	Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software.
+
+There are different layers of software on a typical computer. They are there to make a smooth pass of interaction between computer, software and a user that is using that software. 
+
+Users- is a person that using a computer (or software) both, without the technical knowledge required to fully understand the programme or knowledge that is required to fully use the features that a software provides.   
+
+Application Software- is a type of software that has been designed to the end users that spend most of their time running on their PCs. This type of programme is to be useful for everyday tasks. The example of Application Software might be Microsoft Word, which allows a user create, edit and print documents. Adobe Photoshop, the image editing software. 
+
+System Software- is a type of software that is designed to run application softwares and hardware on a computer.  There are three fields that makes system software:
+-	Operating System- Contains most fundamental programs, controls computer’s hardware, storage data, allows to run other programms. Example are: Microsoft Windows, Mac OS X or Linux.
+-	Utility Programs- Performs specified tasks on the computer. Examples: Antiviruses, file compression software, backup data programs. 
+-	Software Development Tools- Programs to develop, modify and test software. Example: Assemblers, compilers and interprets. 
+Hardware- It is a collection of physical components that computer contain. There is a set of other devices that allows computer, the whole system to run. The examples might be: CPU, main memory, input devices, output devices etc. 
+4.	Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program.
+
+In computing, an algorithm is set of operations that are constantly happens step-by-step to perform and run a programme. Because computer understands only machine language instructions, which we called binary code, to make it simpler for user, the programme needs to translate a human level language into the machine level language. Algorithm will be very useful tool to translate these languages because everything perform step by step, so interaction will be much easier between computer and its users.  
+
+5.	Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.
+
+a)	Get a pan.
+b)	Get a small piece of butter and place it on the pan. 
+c)	Heat butter on the pan until it starts frying. 
+d)	If butter frying, crack two eggs into the Pan
+e)	Add milk, some pepper or salt and Mix the mixture 
+f)	Remove Pan from stove. 
+g)	Wait for 2 minutes
+h)	While waiting, get a plate. 
+i)	Get the Pan and gently pull the eggs across the pan straight on the plate. 
+
+6.	Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
+
+The Idle (Python language shell) is an Interpreter. This mean that programme both translates and executes commends in a high level language to translate them into the machine level language. The zero and one.   
+
+
+
+
+
+
+
+
+
+
+
+Bibliography/ References:
+https://online.uwl.ac.uk/bbcswebdav/pid-1589380-dt-content-rid-1789335_2/courses/CP30681E_21-SEP-15_15-JAN-16/ISD_lecture_week1%284%29.pdf
+https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities
+https://cloud.google.com/tools/cloud-repositories/
+http://software.ac.uk/resources/guides/choosing-repository-your-software-project
+https://en.wikipedia.org/wiki/User_(computing)
+https://www.techopedia.com/definition/4224/application-software
+http://whatis.techtarget.com/definition/system-software
+
+ 
+

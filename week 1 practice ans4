@@ -1,0 +1,13 @@
+firstNo = 0
+secondNo = 0
+result = 0
+
+firstNo = input ("Please enter first number   ")
+secondNo = input ("Please enter second number  ")
+
+firstNo = int(firstNo)
+secondNo = int(secondNo)
+
+result = firstNo + secondNo
+
+print ("The result of adding these two number is =", result)
